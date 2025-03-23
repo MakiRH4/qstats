@@ -1,6 +1,10 @@
 # qstats
 Integrated API/Webhook platform, blockchain event automation, and data visualization via dashboards.
 
+## Team
+Name: Paris
+Num: 14
+
 
 
 ## Setup

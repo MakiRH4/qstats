@@ -13,9 +13,9 @@ export async function getRPCStatus() {
 // Creating and broadcasting a simple transaction
 export async function simpleTransaction() {
 
-    const sourceId = 'DTPMQDHFRIRRBBZZRZSVVTIKYSVCSHSCMTMCFMFQQFCJOAMOJIYEEPJAMQML'
-    const sourceSeed = 'jnqavkvdoitzafbqicshhptvligatcwoaqnytxvbdutiicluxsfoclc'
-    const destinationId = 'PWZTHHLMWUQOUAFMMCTEVRVXDHXCQKJHRGWJAKNDOFGUZVDNLMVENUMFCTYF'
+    const sourceId = SOURCEID
+    const sourceSeed = SOURCESEED
+    const destinationId = DESTINATIONID
     const amount = 2700
 
     // Fetching current network tick
